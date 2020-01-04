@@ -40,9 +40,8 @@ Partial Class F_Splash
         Me.Label2.AutoSize = True
         Me.Label2.Location = New System.Drawing.Point(190, 87)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(39, 13)
+        Me.Label2.Size = New System.Drawing.Size(0, 13)
         Me.Label2.TabIndex = 1
-        Me.Label2.Text = "Label2"
         '
         'F_Splash
         '
